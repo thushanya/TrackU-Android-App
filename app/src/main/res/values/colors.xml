@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Modern Sea Coral Theme - Enhanced Palette -->
+    <color name="ocean_blue_light">#B3E5FC</color>
+    <color name="ocean_blue">#29B6F6</color>
+    <color name="ocean_blue_dark">#0288D1</color>
+    <color name="coral_light">#FFCCBC</color>
+    <color name="coral">#FF7043</color>
+    <color name="coral_dark">#E64A19</color>
+    <color name="sea_foam">#80DEEA</color>
+    <color name="deep_sea">#006064</color>
+    
+    <!-- Modern UI Enhancement Colors -->
+    <color name="gradient_start">#4DD0E1</color>
+    <color name="gradient_end">#FF6E40</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_background_dark">#1E1E1E</color>
+    <color name="surface_overlay">#F5F5F5</color>
+    <color name="accent_purple">#AB47BC</color>
+    <color name="accent_teal">#26C6DA</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="divider">#EEEEEE</color>
+</resources>

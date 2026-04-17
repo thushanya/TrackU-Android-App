@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/habitsFragment"
+        android:icon="@android:drawable/ic_menu_day"
+        android:title="@string/Habits" />
+    
+    <item
+        android:id="@+id/moodFragment"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="@string/Mood" />
+    
+    <item
+        android:id="@+id/trendsFragment"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="@string/Trends" />
+    
+    <item
+        android:id="@+id/settingsFragment"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="@string/Settings" />
+</menu>

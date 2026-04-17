@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Dark theme with Sea Coral colors -->
+    <style name="Base.Theme.Labexam3" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary colors - Ocean Blue (darker shades) -->
+        <item name="colorPrimary">@color/ocean_blue_dark</item>
+        <item name="colorPrimaryVariant">@color/deep_sea</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <!-- Secondary colors - Coral -->
+        <item name="colorSecondary">@color/coral_light</item>
+        <item name="colorSecondaryVariant">@color/coral</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <!-- Background colors -->
+        <item name="android:colorBackground">@color/deep_sea</item>
+        <item name="colorSurface">@color/ocean_blue_dark</item>
+        <item name="colorOnSurface">@color/ocean_blue_light</item>
+        
+        <!-- Accent color -->
+        <item name="colorAccent">@color/sea_foam</item>
+    </style>
+</resources>

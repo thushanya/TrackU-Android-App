@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/habitsFragment">
+
+    <fragment
+        android:id="@+id/habitsFragment"
+        android:name="com.example.labexam3.ui.habits.HabitsFragment"
+        android:label="Daily Habits"
+        tools:layout="@layout/fragment_habits" />
+
+    <fragment
+        android:id="@+id/moodFragment"
+        android:name="com.example.labexam3.ui.mood.MoodFragment"
+        android:label="Mood Journal"
+        tools:layout="@layout/fragment_mood" />
+
+    <fragment
+        android:id="@+id/trendsFragment"
+        android:name="com.example.labexam3.ui.trends.TrendsFragment"
+        android:label="Mood Trends"
+        tools:layout="@layout/fragment_trends" />
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.example.labexam3.ui.settings.SettingsFragment"
+        android:label="Settings"
+        tools:layout="@layout/fragment_settings" />
+
+</navigation>

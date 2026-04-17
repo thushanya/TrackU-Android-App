@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">TrackU</string>
+    
+    <!-- Fragment Titles -->
+    <string name="MoodJournal">🌈 Mood Journal</string>
+    <string name="DailyHabits">Daily Habits</string>
+    <string name="Settings">⚙️ Settings</string>
+    <string name="MoodTrends">📊 Mood Trends</string>
+    
+    <!-- Buttons -->
+    <string name="AddHabit">Add Habit</string>
+    <string name="LogMood">Log Mood</string>
+    <string name="ClearAllData">Clear All Data</string>
+    
+    <!-- Dialog Titles -->
+    <string name="AddNewHabit">Add New Habit</string>
+    
+    <!-- Hints -->
+    <string name="HabitName">Habit name</string>
+    
+    <!-- Subtitles -->
+    <string name="TrackYourWellnessJourney">Track your wellness journey</string>
+    <string name="HowAreYouFeelingToday">How are you feeling today?</string>
+    <string name="CustomizeYourWellnessExperience">Customize your wellness experience</string>
+    <string name="YourWeeklyEmotionalJourney">Your weekly emotional journey</string>
+    
+    <!-- Labels -->
+    <string name="Done">Done</string>
+    <string name="MoodHistory">Mood History</string>
+    <string name="HowAreYouFeeling">How are you feeling?</string>
+    <string name="Entries">Entries</string>
+    <string name="Average">Average</string>
+    <string name="MostUsed">Most Used</string>
+    <string name="WeeklyMoodTrend">Weekly Mood Trend</string>
+    
+    <!-- Section Headers -->
+    <string name="HydrationReminders">💧 Hydration Reminders</string>
+    <string name="About">ℹ️ About</string>
+    <string name="DataManagement">🗂️ Data Management</string>
+    <string name="Insights">💡 Insights</string>
+    
+    <!-- Messages -->
+    <string name="NoHabitsYet">No habits yet</string>
+    <string name="TapToAddFirstHabit">Tap + to add your first habit</string>
+    <string name="NoMoodEntriesYet">No mood entries yet</string>
+    <string name="SelectEmojiToLogMood">Select an emoji above to log your mood</string>
+    <string name="HabitExamples">Examples: Drink 8 glasses of water, Meditate for 10 minutes, Walk 10,000 steps</string>
+    <string name="GetNotifiedToDrinkWater">Get notified to drink water at these times:</string>
+    <string name="WellnessApp">Wellness App</string>
+    <string name="Version">Version 1.0</string>
+    <string name="AppDescription">Track your daily habits, log your moods, and stay hydrated with timely reminders.</string>
+    <string name="ClearDataWarning">This will delete all habits, mood entries, and settings. This action cannot be undone.</string>
+    <string name="InsightsMessage">Track your moods daily to see patterns and trends in your emotional well-being. Consistency is key to understanding yourself better!</string>
+    
+    <!-- Content Descriptions -->
+    <string name="AddHabitDescription">Add Habit</string>
+    <string name="DeleteHabitDescription">Delete habit</string>
+    <string name="ShareMoodSummaryDescription">Share mood summary</string>
+    
+    <!-- Empty State Emojis -->
+    <string name="EmptyHabitsEmoji">📋</string>
+    <string name="EmptyMoodEmoji">😊</string>
+    
+    <!-- Default Values -->
+    <string name="DefaultPercentage">0%</string>
+    <string name="DefaultCount">0</string>
+    <string name="NotAvailable">N/A</string>
+    
+    <!-- Navigation Menu -->
+    <string name="Habits">Habits</string>
+    <string name="Mood">Mood</string>
+    <string name="Trends">Trends</string>
+</resources>
